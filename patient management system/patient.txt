@@ -1,0 +1,3 @@
+rahul	222	21	m	1523459548	liverdisease
+ashish	52	20	m	9854621345	heartattack
+vinay	333	32	m	9542358412	kidneystone
